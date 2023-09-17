@@ -6,3 +6,7 @@ echo "Hello Kirti, Welcome to Visual Studio code"
 echo "AWS is not hard broe"
 echo "AWs is easy"
 echo "We are learning AWS"
+echo "This is to just practice"
+echo "Mommy  is  my  mommy"
+echo "You are my only  father "
+
